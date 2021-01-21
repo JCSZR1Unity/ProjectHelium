@@ -25,7 +25,6 @@ public class InstantiateCannons : MonoBehaviour
         Shooting();
     }
 
-
     //Instantiates few gameobjects from cannon prefab
     //If we build arena, we can create public list of coordinates where should cannons spawn
     //And use it here instead of hardcoded values
